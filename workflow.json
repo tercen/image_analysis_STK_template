@@ -22,7 +22,7 @@
   "urls": [
     {
       "kind": "Url",
-      "uri": "https://github.com/tercen/image_analysis_STK_tmpl"
+      "uri": "https://github.com/tercen/image_analysis_STK_template"
     }
   ],
   "tags": [],
@@ -35,7 +35,7 @@
   ],
   "url": {
     "kind": "Url",
-    "uri": "https://github.com/tercen/image_analysis_STK_tmpl"
+    "uri": "https://github.com/tercen/image_analysis_STK_template"
   },
   "version": "0.0.1",
   "authors": [],
