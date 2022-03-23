@@ -1,8 +1,8 @@
 {
   "kind": "Workflow",
-  "id": "6d9deed8364dd0717b9d62aeafab07d4",
+  "id": "07bd3af45f259674834661ea5f3d46d6",
   "isDeleted": false,
-  "rev": "9-23c4b735ab87bd7613a5535e8e9c472f",
+  "rev": "4-bb0e98c3702ef27de0c53a2e11f9506c",
   "description": "image analysis STK",
   "name": "image_analysis_STK",
   "createdBy": "ginberg",
@@ -13,11 +13,11 @@
   },
   "createdDate": {
     "kind": "Date",
-    "value": "2022-03-21T08:56:32.371579Z"
+    "value": "2022-03-23T08:28:57.786261Z"
   },
   "lastModifiedDate": {
     "kind": "Date",
-    "value": "2022-03-21T09:04:01.166721Z"
+    "value": "2022-03-23T08:42:49.455272Z"
   },
   "urls": [
     {
@@ -42,7 +42,7 @@
     "kind": "Url",
     "uri": "https://github.com/tercen/image_analysis_STK_template"
   },
-  "version": "0.0.3",
+  "version": "0.0.4",
   "authors": [],
   "isPublic": false,
   "projectId": "ba516d78a1a52fff3d5ade71588d64f8",
@@ -596,7 +596,7 @@
             }
           ],
           "rectangleSelections": [],
-          "nRows": 60
+          "nRows": 1
         },
         "filters": {
           "kind": "Filters",
@@ -687,7 +687,7 @@
             {
               "kind": "Pair",
               "key": "cpu",
-              "value": "0"
+              "value": "20"
             },
             {
               "kind": "Pair",
@@ -1205,7 +1205,7 @@
             }
           ],
           "rectangleSelections": [],
-          "nRows": 9120
+          "nRows": 1
         },
         "filters": {
           "kind": "Filters",
@@ -1296,7 +1296,7 @@
             {
               "kind": "Pair",
               "key": "cpu",
-              "value": "0"
+              "value": "20"
             },
             {
               "kind": "Pair",
@@ -1333,7 +1333,7 @@
             }
           ],
           "rectangleSelections": [],
-          "nRows": 9
+          "nRows": 1
         },
         "taskId": ""
       },
