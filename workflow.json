@@ -2621,7 +2621,7 @@
           "operatorRef": {
             "kind": "OperatorRef",
             "name": "PS12 Image Overview Shiny Operator",
-            "version": "0.0.5",
+            "version": "0.0.7",
             "operatorId": "07bd3af45f259674834661ea5fedc7bd",
             "operatorKind": "ShinyOperator",
             "propertyValues": [],
