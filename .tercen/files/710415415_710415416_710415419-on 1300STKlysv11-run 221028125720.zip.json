@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "710415415_710415416_710415419-on 1300STKlysv11-run 221028125720.zip",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "710415415_710415416_710415419-on 1300STKlysv11-run 221028125720.zip",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "",
+ "dataUri": "23/55/235525c2-0892-4e78-9cfc-ca5a366a911d",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 67998414
+}
